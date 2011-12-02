@@ -1,0 +1,11 @@
+# HMJB
+#      A
+#      P   GrADS     Library      Library              Short
+# Type I  Function   Function      Path              Description
+# ---- - ---------- ---------- -------------- -------------------------------  
+  udf  0  " "        " "         " "       "Extensions by hmjbarbosa"
+  udf  0  max2d f_max2d ^libhmjbgrads.gex  "max func for 2d field"
+  udf  0  min2d f_min2d ^libhmjbgrads.gex  "min func for 2d field"
+#..........................................................................
+
+
